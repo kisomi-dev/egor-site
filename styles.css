@@ -820,7 +820,10 @@ body.ready .hero-title .line:nth-child(2) > span{ transform: none; opacity: 1; t
   font-size: 13px;
   letter-spacing: .08em;
   color: var(--muted-2);
+  text-decoration: none;
+  transition: color .25s;
 }
+a.handle:hover{ color: var(--cyan); }
 
 /* ---------- footer ---------- */
 
