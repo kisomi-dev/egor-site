@@ -11,8 +11,8 @@
 
   var I18N = {
     ru: {
-      meta_title: "Egor — B2B-продажи и цифровые продукты",
-      meta_desc: "Собираю базу клиентов, создаю ИИ-ассистентов и сайты для бизнеса.",
+      meta_title: "Egor «Kisomi» — B2B-продажи и цифровые продукты",
+      meta_desc: "Egor (Kisomi): собираю базу клиентов, создаю ИИ-ассистентов и сайты для бизнеса.",
 
       nav_services: "Услуги",
       nav_cases: "Кейсы",
@@ -23,7 +23,7 @@
       badge: "Открыт к новым проектам",
       hero_l1: "B2B-продажи и",
       hero_l2: "цифровые продукты",
-      hero_sub: "Меня зовут Егор. Собираю базу клиентов, создаю ИИ-ассистентов и сайты, которые помогают бизнесу продавать больше.",
+      hero_sub: "Меня зовут Егор — также известен как Kisomi. Собираю базу клиентов, создаю ИИ-ассистентов и сайты, которые помогают бизнесу продавать больше.",
       cta_primary: "Написать в Telegram",
       cta_secondary: "Смотреть услуги",
 
@@ -64,13 +64,13 @@
       contact_sub: "Напишите в Telegram — обсудим, что можно сделать за первую неделю.",
       contact_btn: "Написать в Telegram",
 
-      footer_left: "© 2026 Egor. B2B sales & digital products.",
+      footer_left: "© 2026 Egor «Kisomi». B2B sales & digital products.",
       footer_right: "Сделано с OpenCode"
     },
 
     en: {
-      meta_title: "Egor — B2B Sales & Digital Products",
-      meta_desc: "I build client pipelines, AI assistants, and websites for businesses.",
+      meta_title: "Egor «Kisomi» — B2B Sales & Digital Products",
+      meta_desc: "Egor (Kisomi): I build client pipelines, AI assistants, and websites for businesses.",
 
       nav_services: "Services",
       nav_cases: "Work",
@@ -81,7 +81,7 @@
       badge: "Open for new projects",
       hero_l1: "B2B sales and",
       hero_l2: "digital products",
-      hero_sub: "I'm Egor. I build client pipelines, AI assistants, and websites that help businesses sell more.",
+      hero_sub: "I'm Egor — also known as Kisomi. I build client pipelines, AI assistants, and websites that help businesses sell more.",
       cta_primary: "Message me on Telegram",
       cta_secondary: "View services",
 
@@ -122,7 +122,7 @@
       contact_sub: "Message me on Telegram — we will figure out what can be done in the first week.",
       contact_btn: "Message me on Telegram",
 
-      footer_left: "© 2026 Egor. B2B sales & digital products.",
+      footer_left: "© 2026 Egor «Kisomi». B2B sales & digital products.",
       footer_right: "Built with OpenCode"
     }
   };
