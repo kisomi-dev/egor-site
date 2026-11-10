@@ -31,4 +31,4 @@ egor-site/
 
 ## Контакт
 
-Telegram: [@egor_data_work](https://t.me/egor_data_work)
+Telegram: [@kisomi_dev_work](https://t.me/kisomi_dev_work)
